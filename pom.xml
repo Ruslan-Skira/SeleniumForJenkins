@@ -107,7 +107,7 @@
                         </property>
                     </properties>
                     <suiteXmlFiles>
-                        <suiteXmlFile>suits/testng-rest.xml</suiteXmlFile>
+                        <suiteXmlFile>suits/testng.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
